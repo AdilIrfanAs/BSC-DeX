@@ -1,28 +1,4 @@
-# 🚀 Pancakeswap BSC Sniper Bot 🚀
-![TradingTigers](https://trading-tigers.com/logos/TradingTigers.png)  
-Web3 Pancakeswap Sniper && Take Profit/StopLose bot written in python3, Please note the license conditions!
-### The first Binance Smart Chain sniper bot with Honeypot checker!  
-![Sniper](https://trading-tigers.com/logos/preview001.png)  
-# Infos
-This Tool only buys/sells with/to BNB but it use Multi Hops to get allways the best Output!  
-Attention, You pay [0.77% Tax](https://docs.trading-tigers.com/tokenomics/tokenomics) on your swap amount!  
-
-# SUPPORT & HELP
-Visit our community for help or questions, on Discord or Github you can open tickets/issues!
-<div><a href="https://discord.gg/Qc6y9kyCgU" > <img src="https://trading-tigers.com/logos/joinDiscord.png" height="80"></a>
-
-
-### Our bot is available on other blockchains:
-- [FTM - SpookySwap](https://github.com/Trading-Tiger/SpookySwap_FTM_Sniper_Bot)
-- [MATIC - QuickSwap](https://github.com/erra-tech/Quickswap_MATIC_Sniper_Bot)
-- [AVAX - TraderJoe](https://github.com/Trading-Tiger/TraderJoe_Avax_Sniper_Bot)
-- Soon more!
-
-### Support Us&You by Buying [TradingTigers Token](https://bscscan.com/token/0x34faa80fec0233e045ed4737cc152a71e490e2e3)  
-![Sniper](https://trading-tigers.com/logos/preview003.png)  
-
-# Download
-### If you are not familiar with Python please have a look at [Releases](https://github.com/Trading-Tiger/Pancakeswap_BSC_Sniper_Bot/releases), there you can download Windows executable.
+# 🚀 The Legit Fork of   🚀  
 
 ### Setup your Address and secret key in Settings.json and Run main-GUI.exe.
 
